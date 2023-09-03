@@ -1,0 +1,74 @@
+[
+    {
+        "id": "id1",
+        "name": "Tom burger",
+        "price": 5,
+        "img": "https://i.postimg.cc/1XghCGqK/gettyimages-1313326790-612x612.jpg"
+    },
+    {
+        "id": "id2",
+        "name": "Tomato biscuit",
+        "price": 10,
+        "img": "https://i.postimg.cc/T2Z2mFrH/gettyimages-637216704-612x612.jpg"
+    },
+    {
+        "id": "id3",
+        "name": "Spicy burger",
+        "price": 20,
+        "img": "https://i.postimg.cc/0N29Pssr/gettyimages-694198404-612x612.jpg"
+    },
+    {
+        "id": "id4",
+        "name": "Hot biscuit",
+        "price": 25,
+        "img": "https://i.postimg.cc/Y2gBc9Wb/gettyimages-746028473-612x612.jpg"
+    },
+    {
+        "id": "id5",
+        "name": "Sweet burger",
+        "price": 30,
+        "img": "https://i.postimg.cc/5NVdfV51/gettyimages-807031028-612x612.jpg"
+    },
+    {
+        "id": "id6",
+        "name": "Light-burger",
+        "price": 10,
+        "img": "https://i.postimg.cc/vZ0p7xJH/gettyimages-872841180-612x612.jpg"
+    },
+    {
+        "id": "id7",
+        "name": "Combo burger",
+        "price": 40,
+        "img": "https://i.postimg.cc/d1ypKHLL/gettyimages-922684138-612x612.jpg"
+    },
+    {
+        "id": "id8",
+        "name": "vegi burger",
+        "price": 5,
+        "img": "https://i.postimg.cc/VL1T3F1k/gettyimages-996979970-612x612.jpg"
+    },
+    {
+        "id": "id9",
+        "name": "Beef burger",
+        "price": 25,
+        "img": "https://i.postimg.cc/bNTM82NH/gettyimages-998260550-612x612.jpg"
+    },
+    {
+        "id": "id10",
+        "name": "Crispy burger",
+        "price": 15,
+        "img": "https://i.postimg.cc/d3FHcJbx/gettyimages-1254672762-612x612.jpg"
+    },
+    {
+        "id": "id11",
+        "name": "Single burger",
+        "price": "10",
+        "img": "https://i.postimg.cc/fTBH1nB8/gettyimages-1295796231-612x612.jpg"
+    },
+    {
+        "id": "id12",
+        "name": "Vego burger",
+        "price": 20,
+        "img": "https://i.postimg.cc/HkJkymNK/gettyimages-1365808785-612x612.jpg"
+    }
+]

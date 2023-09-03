@@ -1,0 +1,17 @@
+.products {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.product {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 50px;
+    gap: 40px;
+}
+
+.cart {
+    background-color: white;
+    height: 20%;
+    border-radius: 20px;
+}
