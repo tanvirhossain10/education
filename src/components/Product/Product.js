@@ -3,9 +3,9 @@ import './Product.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShopLock, faShoppingBasket } from '@fortawesome/free-solid-svg-icons';
 
-const Product = ({ products, btnHandeler }) => {
+const Product = ({ products }) => {
     console.log(products)
-    const { name, price, img, id } = products
+    const { name, price, img } = products
     return (
         <div className='single-product'>
             <img src={img} alt="" />
@@ -13,7 +13,7 @@ const Product = ({ products, btnHandeler }) => {
                 <p>Name:{name}</p>
                 <p>Price:{price}</p>
             </div>
-            <button onClick={() => btnHandeler(id)}><p>Add hungry cart</p> <FontAwesomeIcon icon={faShoppingBasket}></FontAwesomeIcon></button>
+            <button><p>Add hungry cart</p> <FontAwesomeIcon icon={faShoppingBasket}></FontAwesomeIcon></button>
         </div>
     );
 };
